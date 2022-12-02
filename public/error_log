@@ -1,0 +1,1 @@
+[29-Apr-2022 12:21:42 Asia/Yangon] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 13707776 bytes) in /home/kwtech07/public_html/waihinoo/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 232
